@@ -2,7 +2,7 @@
 
 A beautiful, responsive analog and digital clock with a dark/light mode toggle. Built with HTML, CSS, and JavaScript.
 
-![Theme Clock](https://via.placeholder.com/800x400/111/7b2f2f?text=Theme+Clock+Demo) 
+![Theme Clock](https://github.com/Rusith1204/simple-clock/blob/66c7dabbc79091c275b22cfd879d180dbcfe1a09/Screenshot%202025-11-09%20082932.png) 
 
 ## ✨ Features
 
